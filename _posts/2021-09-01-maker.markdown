@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2021-09-01
+img: maker.png
+alt: maker-logo-alt
+project-date: September 2021 - April 2023
+client: MakerDAO
+category: Protocol Engineering
+description: We provided critical Protocol Engineering, Architectural Consulting services to the pre-Endgame MakerDAO protocol.  This included in-depth security research and reviews of new modules to enhance and improve the MakerDAO protocol. We supported governance's decisions through smart contract execution, process management and testing.
+---

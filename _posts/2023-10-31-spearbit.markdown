@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2023-10-31
+img: spearbit.png
+alt: spearbit-alt
+project-date: Ongoing
+client: Spearbit
+category: Security Research, Review and Audits
+description: Working with an industry leader Security Research firm, we provide security review and auditing services to some of the preeminant protocols and projects in blockchain, Web3, and DeFi.
+---

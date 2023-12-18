@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 0
+date: 2021-08-15
+img: oasis-pro.png
+alt: oasis-pro-alt
+project-date: Ongoing
+client: Oasis Pro
+category: Technical Advising
+description: We have worked with the Oasis Pro team nearly since their launch.  We have provided technical advising as they have built out one of the premier regulated Web3 trading and Real World Asset platforms.
+---

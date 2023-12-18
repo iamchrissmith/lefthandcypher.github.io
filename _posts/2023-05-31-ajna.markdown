@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2023-10-31
+img: ajna.png
+alt: ajna-finance-alt
+project-date: May 2023, October - November 2023
+client: Base Network, Coinbase
+category: Security Review Audit
+description: We conducted multiple in-depth security reviews and invariant test consulting for the Ajna Finance team to help ensure the security and correctness of the Ajna Protocol.
+---

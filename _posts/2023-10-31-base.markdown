@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2023-10-31
+img: base.png
+alt: base-network-alt
+project-date: August - October 2023
+client: Base Network, Coinbase
+category: Security Review Audit
+description: We worked with the Coinbase team to ensure the security of key components of the Base network.
+---
